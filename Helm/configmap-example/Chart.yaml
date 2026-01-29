@@ -1,0 +1,6 @@
+apiVersion: v2
+name: configmap-example
+description: Example Helm chart demonstrating ConfigMap creation with range and dict
+type: application
+version: 0.1.0
+appVersion: "1.0"
