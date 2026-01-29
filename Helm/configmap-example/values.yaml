@@ -1,0 +1,7 @@
+configMaps:
+  app-config:
+    LOG_LEVEL: info
+    TIMEOUT: "30"
+  db-config:
+    DB_HOST: postgres
+    DB_PORT: "5432
